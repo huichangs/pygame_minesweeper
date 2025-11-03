@@ -95,7 +95,7 @@ class Board:
 
         # self._mines_placed = True
 
-        pass 
+        pass
 
     def reveal(self, col: int, row: int) -> None:
         # TODO: Reveal a cell; if zero-adjacent, iteratively flood to neighbors.
