@@ -77,7 +77,7 @@ class Board:
         #     (-1, 0),            (1, 0),
         #     (-1, 1),  (0, 1),  (1, 1),
         # ]
-        # result = [] 
+        # result = []
         
         # return result
         pass
