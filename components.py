@@ -87,7 +87,7 @@ class Board:
         # all_positions = [(c, r) for r in range(self.rows) for c in range(self.cols)]
         # forbidden = {(safe_col, safe_row)} | set(self.neighbors(safe_col, safe_row))
         # pool = [p for p in all_positions if p not in forbidden]
-        # random.shuffle(pool)
+        # random.shuffle(pool) 
         
         # Compute adjacency counts
         # for r in range(self.rows):
